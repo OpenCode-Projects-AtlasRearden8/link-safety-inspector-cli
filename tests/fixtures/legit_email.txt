@@ -1,0 +1,12 @@
+From: GitHub <notifications@github.com>
+Subject: Re: [dylanasdale/link-safety-inspector] New comment on pull request #14
+
+dylan-dev commented on pull request #14:
+
+  Nice catch - I folded the trimming logic into the tokenizer.
+
+Reply via:
+  https://github.com/dylanasdale/link-safety-inspector/pull/14
+
+Also saw the study group moved to Thursday:
+  https://calendar.google.com/calendar/u/0/r/eventedit

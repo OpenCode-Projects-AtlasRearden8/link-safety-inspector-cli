@@ -1,0 +1,17 @@
+From: PayPa1 Service Team <no-reply@paypa1-secure.com>
+Date: Tue, 28 Oct 2026 09:41:02 -0500
+To: you@example.com
+Subject: URGENT: unusual activity - your account will be suspended
+
+Dear customer,
+
+We detected unusual activity on your account. You must update your
+account information within 24 hours to avoid suspension.
+
+Please confirm your identity by clicking the secure link below:
+
+  https://paypa1-secure.com/verify/update-account?next=http://bit.ly/2as3b1
+
+Thank you for your prompt attention.
+
+PayPa1 Security Team
